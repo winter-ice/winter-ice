@@ -1,2 +1,2 @@
-# winter-ice
+# Winter Ice
 Winter Ice Project website repository
