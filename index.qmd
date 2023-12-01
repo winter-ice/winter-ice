@@ -1,0 +1,11 @@
+---
+title: "The Winter Network Project"
+subtitle: "Advancing a comprehensive model of year-round ecosystem function in seasonally frozen lakes through networked science"
+toc: false
+---
+
+## Project Description
+
+Winter is the fastest warming season in the northern hemisphere. For millions of the world's seasonally-frozen lakes, this warming means shorter and thinner ice cover and changing patterns of snow accumulation on the ice. Because ice and snow affect many fundamental physical, chemical, and biological properties of lakes, changes in winter conditions can disrupt lake ecosystems and the services they provide to humanity. Until recently, lake scientists paid relatively little attention to winter, meaning we know very little about how lakes work when covered by ice and snow and how winter conditions affect the rest of the year. This leaves scientists ill-prepared to predict how changing winters will impact lakes or to mitigate negative impacts. This study addresses this "winter knowledge gap" and develops a predictive understanding of how winter conditions affect the ecological populations, communities, and food webs of diverse types of lakes. Along with intensive studies of lakes by the core project team, the investigators are also recruiting researchers from dozens of institutions to expand sampling to many additional lakes. This "Team Science" approach will train many aquatic scientists in specialized winter sampling methods, empowering other scientists to include studies of winter conditions in their research programs. It will develop a network of winter-hardy aquatic researchers with the goal of advancing understanding of year-round ecosystem function in the face of climate change. The project provides education and training opportunities for multiple graduate and undergraduate students and a postbaccalaureate researcher.
+
+This study is supported by the National Science Foundation (Ozersky: #2306885, Dugan: #2306888, Hampton: #2306886, Sadro: #2306889, Vicks-Major: #2306887).
