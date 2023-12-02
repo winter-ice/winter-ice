@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: "/Users/bcdemattei/Desktop/Projects/winter-ice/docs"
 
 website:
   title: "The Winter Network Project"
