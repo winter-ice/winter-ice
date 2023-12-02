@@ -1,65 +1,14 @@
 ---
-title: "Primary Investigators"
+title: "Steering Committee"
+toc: False
 ---
 
-## Ted Ozersky | University of Minnesota Duluth
+### Hilary Dugan | Associate Professor, University of Wisconsin Madison.
 
-::: columns
-::: {.column width="40%"}
+### Stephanie Hampton | Deputy Director, Division of Biosphere Sciences and Engineering, Carnegie Institution for Science.
 
-![](images/tempimg.jpg){width=250px}
-:::
+### Ted Ozersky | Associate Professor, University of Minnesota Duluth.
 
-::: {.column width="60%"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque.
+### Steven Sadro | Associate Professor, University of California Davis.
 
-:::
-:::
-## Hilary Dugan | University of Wisconsin–Madison
-::: columns
-::: {.column width="40%"}
-
-![](images/tempimg.jpg){width=250px}
-:::
-
-::: {.column width="60%"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque.
-
-:::
-:::
-## Stephanie Hampton | Carnegie Institution for Science
-::: columns
-::: {.column width="40%"}
-
-![](images/tempimg.jpg){width=250px}
-:::
-
-::: {.column width="60%"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque.
-
-:::
-:::
-## Steven Sadro | University of California, Davis
-::: columns
-::: {.column width="40%"}
-
-![](images/tempimg.jpg){width=250px}
-:::
-
-::: {.column width="60%"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque.
-
-:::
-:::
-## Trista Vick-Majors | Michigan Technological University
-::: columns
-::: {.column width="40%"}
-
-![](images/tempimg.jpg){width=250px}
-:::
-
-::: {.column width="60%"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat volutpat sapien, eu interdum elit suscipit ut. Praesent dolor tellus, ultrices et odio sit amet, iaculis porta ligula. Quisque rutrum auctor dui, ac iaculis magna eleifend quis. Vestibulum a euismod nibh, a varius lorem. Pellentesque mattis lacus ac convallis feugiat. Nullam consequat dapibus quam non dignissim. In quis erat diam. Morbi fringilla, nisi at malesuada imperdiet, nisi nunc posuere tellus, at interdum turpis justo non nisl. Integer a commodo sem, id commodo urna. Donec a enim ac ante mattis scelerisque.
-
-:::
-:::
+### Trista Vick-Majors | Assistant Professor, Michigan Technological University.
