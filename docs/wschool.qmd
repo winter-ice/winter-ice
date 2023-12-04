@@ -1,7 +1,6 @@
 ---
 title: "Winter School"
 ---
-# Winter School
 
 *Join early-career and experienced limnologists at Trout Lake Biological Station in Wisconsin for a comprehensive Winter Limnology workshop (Including travel days, March 10-15, 2024). Gain experience in conducting winter field research and K-12 outreach, expand your professional network, and learn how you can participate in a new NSF-funded Team Science winter limnology project.*
 
@@ -15,12 +14,37 @@ title: "Winter School"
 
 ### About
 
+::: columns
+::: {.column width="50%"}
+![](images/ice4.jpg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="45%"}
 Winter presents unique challenges to limnological research and science outreach. These challenges have slowed progress in understanding winter limnology and how winter conditions affect lakes through the full annual cycle. Rapidly changing winter climate and growing recognition of the 'winter knowledge gap' in limnology are attracting more and more researchers to study ice covered lakes.
-
+:::
+:::
+::: columns
+::: {.column width="45%"}
 Unfortunately, few of us are trained for the unique challenges of limnological sampling on frozen lakes, including ice safety, operating standard limnological gear in subzero temperatures, collecting samples from under snow and ice cover, and even dressing for the cold, windy, and wet conditions winter limnologists routinely encounter. In addition, much of recent winter limnology research is conducted by individual research teams focused on a small number of systems and domain-specific questions. This approach makes it difficult to discern generalizable patterns and test comprehensive hypotheses about the way winter conditions shape the ecology of diverse lakes.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="50%"}
+![](images/ice10.jpg)
+:::
+:::
 
+::: columns
+::: {.column width="50%"}
+![](images/ice5.jpg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="45%"}
 The National Science Foundation recently funded two Winter Limnology projects (Advancing a comprehensive model of year-round ecosystem function in seasonally frozen lakes through networked science, award \# 2306885 and On thin ice- implications of shorter winters for the future of freshwater phytoplankton phenology and function, award \# 2306894). Both projects seek to rapidly advance understanding of winter limnology through large-scale, collaborative Team Science, involving dozens of research groups in collecting standardized samples across diverse lakes. To support these projects, we are hosting a Limnology Winter School event for early career and experienced limnologists interested in learning how to conduct winter research, expand their professional networks, and join us as collaborators on our Team Science projects.
-
+:::
+:::
 Participants in the Limnology Winter School will join a team of experienced winter limnologists and outreach specialists at UW-Madison's scenic Trout Lake Biological Station for 4 days of hands-on field work and discussions. Topics will include:
 
 -   Planning and executing winter field operations
@@ -40,7 +64,8 @@ Transportation, accommodations, and meals are fully covered for US and Canada-ba
 ## Workshop Details
 
 ### Expectations and Cost Offsets
-
+::: columns
+::: {.column width="45%"}
 #### Participants are expected to:
 
 - Be fully engaged in workshop events listed in the agenda, for the full workshop, and able to set aside regular work distractions
@@ -50,22 +75,41 @@ Transportation, accommodations, and meals are fully covered for US and Canada-ba
 - Abide by the workshop code of conduct
 
 - Complete some pre-workshop activities prior to arriving
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="50%"}
+![](images/ice3.jpg)
+:::
+:::
 
 #### Cost Offsets
 
 Participant travel, accommodation, and meal costs for US and Canada-based participants will be reimbursed through a stipend on a needs basis. Requests for funding can be indicated in the online application.
 
-### Preliminary program
 
-**Sunday, March 10:**
+### Preliminary program
+::: columns
+::: {.column width="50%"}
+![](images/ice6.jpg)
+![](images/ice7.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="45%"}
+### **Sunday, March 10:**
 
 - Travel day, arrive at Trout Lake
 
-- ***Welcome dinner***
+- ***Welcome Dinner***
 
 - Introductions and networking
 
-**Monday, March 11:**
+### **Monday, March 11:**
 
 - ***Breakfast***
 
@@ -79,11 +123,13 @@ Participant travel, accommodation, and meal costs for US and Canada-based partic
 
 - ***Dinner***
 
-- Discussion and networking:
+- Discussion and networking: ***Objectives of the Winter Limnology Network***
+:::
+:::
 
-|                 *Objectives of the Winter Limnology Network*
-
-**Tuesday, March 12:**
+::: columns
+::: {.column width="45%"}
+### **Tuesday, March 12:**
 
 - ***Breakfast***
 
@@ -95,11 +141,9 @@ Participant travel, accommodation, and meal costs for US and Canada-based partic
 
 - ***Dinner***
 
-- Discussion and networking: 
+- Discussion and networking: ***Overcoming challenges of winter sampling***
 
-|                 *Overcoming challenges of winter sampling*
-
-**Wednesday, March 13:**
+### **Wednesday, March 13:**
 
 - ***Breakfast***
 
@@ -113,11 +157,29 @@ Participant travel, accommodation, and meal costs for US and Canada-based partic
 
 - ***Dinner***
 
-- Discussion and networking:
+- Discussion and networking: ***Addressing novel hypotheses using the Winter Limnology Network***
+:::
 
-|                 *Addressing novel hypotheses using the Winter Limnology Network*
+::: {.column width="5%"}
+:::
 
-**Thursday, March 14:**
+::: {.column width="50%"}
+![](images/ice8.jpg)
+![](images/ice9.jpg)
+:::
+:::
+
+::: columns
+::: {.column width="50%"}
+![](images/ice2.jpg)
+![](images/ice1.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="45%"}
+### **Thursday, March 14:**
 
 - ***Breakfast***
 
@@ -129,9 +191,7 @@ Participant travel, accommodation, and meal costs for US and Canada-based partic
 
 - ***Lunch***
 
-- Discussions and working groups:
-
-|                 *Maintaining momentum for collaboration*
+- Discussions and working groups: ***Maintaining momentum for collaboration***
 
 - Reporting out
 
@@ -139,12 +199,13 @@ Participant travel, accommodation, and meal costs for US and Canada-based partic
 
 - Summary and networking
 
-**Friday, March 15:**
+### **Friday, March 15:**
 
 - ***Breakfast***
 
 - Departure, travel day
-
+:::
+:::
 
 ## Application and Registration Information:
 

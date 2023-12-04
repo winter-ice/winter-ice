@@ -1,14 +1,34 @@
 ---
-title: "Steering Committee"
+title: "Team"
 toc: False
 ---
 
-### Hilary Dugan | Associate Professor, University of Wisconsin Madison.
+## Hilary Dugan | Associate Professor, University of Wisconsin Madison
 
-### Stephanie Hampton | Deputy Director, Division of Biosphere Sciences and Engineering, Carnegie Institution for Science.
+As a limnologist, Hilary studies how terrestrial and atmospheric changes, such as warming air temperatures or land use patterns, alter biogeochemical fluxes and aquatic processes in lakes. Her research sites span from Wisconsin to Antarctica.
 
-### Ted Ozersky | Associate Professor, University of Minnesota Duluth.
+[Lab Page](https://dugan.limnology.wisc.edu)
 
-### Steven Sadro | Associate Professor, University of California Davis.
+## Stephanie Hampton | Deputy Director, Division of Biosphere Sciences and Engineering, Carnegie Institution for Science
 
-### Trista Vick-Majors | Assistant Professor, Michigan Technological University.
+Stephanie Hampton’s research has progressed from basic investigations in aquatic ecology using statistical analysis of large-scale databases, to broader applications of empirical evidence in science and society. Her core expertise is in aquatic science, statistical analysis, and environmental informatics. Her research includes analyzing long-term ecological data collected from lakes as globally diverse as Lake Baikal in Siberia and Lake Washington in Seattle. Together with collaborators, she has shown how lakes respond to municipal management practices such as sewage diversion. She has also helped demonstrate the effects of climate change on plankton—the basic building blocks of aquatic food webs – with a recent emphasis on the implications of winter ice loss across the globe.
+
+[Lab Page](https://hampton-lab.github.io/Hampton-Lab/)
+
+## Ted Ozersky | Associate Professor, University of Minnesota Duluth
+
+Ted is a biological limnologist. He is interested in the movement of energy and material through ecosystems and the way living organisms interact with these processes. Past and ongoing work is focused on nutrient cycling and limitation, food web structure, functional biodiversity, and contaminant trophodynamics in North American lakes and Russia's Lake Baikal. His main passion right now is winter limnology.
+
+[Lab Page](https://biolimno.weebly.com)
+
+## Steven Sadro | Associate Professor, University of California Davis
+
+Steven has wide-ranging research interests. Much of his work broadly examines how abiotic and biotic factors interact to control the structure and function of ecosystems. He studies watershed processes and terrestrial-aquatic linkages, the biogeochemical cycling of carbon and nutrients through ecosystems and food webs, and factors that regulate the metabolic function (i.e., respiration and primary production) of ponds, lakes and estuaries. Many of his current projects seek to understand and predict the effect of climate change and other anthropogenic stressors on aquatic ecosystems from local to global scales. 
+
+[Lab Page](https://sadrolab.squarespace.com)
+
+## Trista Vick-Majors | Assistant Professor, Michigan Technological University
+
+Trista is a microbial ecologist who studies the reciprocal relationships between microbial communities and biogeochemical processes in aquatic ecosystems. Microorganisms are widespread in the environment and are responsible for driving key elemental transformations that control the quality of our water and influence the greenhouse gas concentrations in our atmosphere. She is interested in understanding how physical and chemical characteristics interact with microbial communities and influence or are influenced by microbial metabolism and diversity. Her work is also aimed at understanding energetic constraints on microbial metabolism that may result from ecosystem change or seasonal change, such as the formation of ice-cover. Field work locales span temperate environments with seasonal ice-cover, where rapid environmental change is affecting ice duration and thickness, and polar environments where ice-cover can be a permanent fixture. Her research occurs at the interface of microbial ecology and biogeochemistry.
+
+[Lab Page](http://www.whereverthereswater.org)
