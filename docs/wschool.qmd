@@ -31,7 +31,7 @@ Unfortunately, few of us are trained for the unique challenges of limnological s
 ::: {.column width="5%"}
 :::
 ::: {.column width="50%"}
-![](images/ice10.jpg)
+![](images/ice10.JPG)
 :::
 :::
 
@@ -94,7 +94,7 @@ Participant travel, accommodation, and meal costs for US and Canada-based partic
 ::: columns
 ::: {.column width="50%"}
 ![](images/ice6.jpg)
-![](images/ice7.jpg)
+![](images/ice7.JPG)
 :::
 
 ::: {.column width="5%"}
@@ -164,8 +164,8 @@ Participant travel, accommodation, and meal costs for US and Canada-based partic
 :::
 
 ::: {.column width="50%"}
-![](images/ice8.jpg)
-![](images/ice9.jpg)
+![](images/ice8.JPG)
+![](images/ice9.JPG)
 :::
 :::
 
