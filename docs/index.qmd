@@ -1,5 +1,5 @@
 ---
-title: "The Winter Network Project"
+title: "Winter Limnology Network"
 subtitle: "Advancing a comprehensive model of year-round ecosystem function in seasonally frozen lakes through networked science"
 toc: false
 ---

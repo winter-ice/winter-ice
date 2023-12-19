@@ -3,7 +3,7 @@ project:
   output-dir: "/Users/bcdemattei/Desktop/Projects/winter-ice/docs"
 
 website:
-  title: "The Winter Network Project"
+  title: "Winter Limnology Network"
   navbar:
     left:
       - href: index.qmd
