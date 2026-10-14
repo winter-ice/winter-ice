@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: "/Users/bcdemattei/Desktop/Projects/winter-ice/docs"
+  output-dir: "/Users/ekarsten/Desktop/winter-ice/docs"
 
 website:
   title: "Winter Limnology Network"
@@ -8,8 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - wschool.qmd
       - collabs.qmd
+      - wschool.qmd
+      - wschool_2027_ad.qmd
       
   page-footer: 
     center: "Background Image of Frozen Lake Credit: [Kuhnmi](https://commons.wikimedia.org/wiki/File:Alps_of_Switzerland_Frozen_Lake_at_Bernina_Ospitz_%2824152193174%29.jpg#filelinks)"
