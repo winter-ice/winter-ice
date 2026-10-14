@@ -6,8 +6,8 @@ body {
     url("images/fro_lake.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  /*background-position: center center;*/
-  /*background-attachment: fixed;*/
+  background-position: center center;
+  background-attachment: fixed;
 }
 
 blockquote {
