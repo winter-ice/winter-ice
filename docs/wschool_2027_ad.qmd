@@ -6,9 +6,9 @@ title: "Winter School 2027"
 
 ## **General Overview:**
 
-**Location**: University of Wisconsin [Trout Lake Field Station](https://limnology.wisc.edu/trout-lake-station-welcome/)
+**Location**: University of Wisconsin [Trout Lake Field Station]( https://limnology.wisc.edu/trout-lake-station-overview/)
 
-**Dates**: February 14-19, 2027 (with February 13 and 20 as travel days).
+**Dates**: February 15-19, 2027 (with February 14 and 20 as travel days).
 
 **Accommodations & meals**: Accommodations in dorm-style cabins at the field station. Meals will be provided.
 
@@ -120,7 +120,6 @@ Travel support of up to $500 is available for U.S.-based participants, based on 
 ::: {.column width="5%"}
 :::
 
-:::
 :::
 
 ## Application and Registration Information:
