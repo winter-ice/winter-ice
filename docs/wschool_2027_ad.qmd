@@ -31,7 +31,7 @@ This NSF-supported workshop will include practical sessions on lake ice safety a
 ::: {.column width="3%"}
 :::
 ::: {.column width="50%"}
-![](images/ws_auger.JPG)
+![](images/ws_auger.jpg)
 :::
 :::
 
