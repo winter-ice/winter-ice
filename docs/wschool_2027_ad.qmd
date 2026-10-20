@@ -16,7 +16,7 @@ title: "Winter School 2027"
 
 ::: columns
 ::: {.column width="50%"}
-![](images/ice4.jpg)
+![](images/ws_group.jpg)
 :::
 ::: {.column width="3%"}
 :::
@@ -31,13 +31,13 @@ This NSF-supported workshop will include practical sessions on lake ice safety a
 ::: {.column width="3%"}
 :::
 ::: {.column width="50%"}
-![](images/ice10.JPG)
+![](images/ws_auger.JPG)
 :::
 :::
 
 ::: columns
 ::: {.column width="50%"}
-![](images/ice5.jpg)
+![](images/ws_plank.jpg)
 :::
 ::: {.column width="3%"}
 :::
@@ -81,7 +81,7 @@ Participation is open to students and postdocs. Training, accommodations (shared
 :::
 
 ::: {.column width="50%"}
-![](images/ice3.jpg)
+![](images/ws_2024_ctd.jpg)
 :::
 :::
 
@@ -89,46 +89,52 @@ Participation is open to students and postdocs. Training, accommodations (shared
 
 Travel support of up to $500 is available for U.S.-based participants, based on anticipated travel costs and financial need. Participants are responsible for costs exceeding their travel award and are encouraged to seek supplementary institutional support.
 
-
-
 ### Preliminary program
 ::: columns
-::: {.column width="50%"}
-![](images/ice6.jpg)
-![](images/ice7.JPG)
-:::
+::: {.column width="45%"}
+### **Sunday, February 14:**
 
+- Travel day, arrive at Trout Lake
+
+### **Monday, February 15:**
+
+- Ice safety and rescue training
+
+### **Tuesday, February 16:**
+
+- Winter field logistics and sampling 1 
+
+### **Wednesday, February 17:**
+
+- Winter field logistics and sampling 2
+
+### **Thursday, February 18:**
+
+- Group project work
+
+### **Friday, February 19:**
+
+- Departure, travel day
+
+:::
 ::: {.column width="5%"}
 :::
-
-
-::: {.column width="5%"}
-:::
-
 ::: {.column width="50%"}
-![](images/ice8.JPG)
-![](images/ice9.JPG)
+![](images/ws_2024_self_rescue_1.jpg)
+![](images/ws_2024_ice_cut_2.jpg)
+
 :::
 :::
 
-::: columns
-::: {.column width="50%"}
-![](images/ice2.jpg)
-![](images/ice1.jpg)
-:::
 
-::: {.column width="5%"}
-:::
-
-:::
 
 ## Application and Registration Information:
 
-Spaces in the workshop are limited. Applicants will be prioritized based on interest in participation in follow up sampling through the Winter Research Network, applicant career stage, and self-described status as members of groups historically underrepresented in limnology.
+Space in the workshop is limited. Applications will be prioritized based on career stage and the anticipated benefit of the training to applicants’ research and professional development.
 
 Applications are due on ***November 30th, 2026***. Successful applicants will be contacted by ***December 15, 2026***.
 
-# Application opens soon...
+# [Apply Here!](https://docs.google.com/forms/d/e/1FAIpQLSdmBtAyZPte8HwDvmWTstDX2p7EX84-cm-lUbedGdbc0_IbxQ/viewform?usp=header)
 
 
 #### For Questions contact Ted Ozersky (tozersky@d.umn.edu)
